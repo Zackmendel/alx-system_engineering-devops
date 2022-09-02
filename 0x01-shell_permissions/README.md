@@ -1,0 +1,1 @@
+change user, prints username, prints all group, new owner, empty file, execute permission, multiple permission, permission for everybody, all permissions to other users only, mode, set mode to another, add execute permission, creates dir, change group owner
